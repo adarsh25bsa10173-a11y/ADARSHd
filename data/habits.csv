@@ -1,0 +1,1751 @@
+date,habits,status
+2025-01-03,Walk,0
+2025-01-03,Walk,1
+2025-01-04,Walk,1
+2025-01-05,Study,0
+2025-01-05,Study,1
+2025-01-06,Study,1
+2025-01-06,Walk,1
+2025-01-07,Study,1
+2025-01-07,Walk,1
+2025-01-08,Journal,0
+2025-01-08,Study,1
+2025-01-08,Walk,1
+2025-01-09,Study,1
+2025-01-10,Study,1
+2025-01-10,Walk,1
+2025-01-11,Study,1
+2025-01-11,Walk,1
+2025-01-12,Study,1
+2025-01-12,Walk,1
+2025-01-13,Meditate,0
+2025-01-13,Study,1
+2025-01-13,Walk,1
+2025-01-14,Meditate,1
+2025-01-14,Study,1
+2025-01-14,Walk,1
+2025-01-15,Study,1
+2025-01-16,Meditate,1
+2025-01-16,Study,1
+2025-01-16,Walk,1
+2025-01-17,Study,1
+2025-01-18,Study,1
+2025-01-18,Walk,1
+2025-01-19,Walk,1
+2025-01-20,Meditate,1
+2025-01-20,Study,1
+2025-01-20,Walk,1
+2025-01-21,Meditate,1
+2025-01-21,Study,1
+2025-01-21,Walk,1
+2025-01-22,Study,1
+2025-01-22,Walk,1
+2025-01-23,Study,1
+2025-01-23,Walk,1
+2025-01-24,Study,1
+2025-01-25,Study,1
+2025-01-25,Walk,1
+2025-01-26,Meditate,1
+2025-01-26,Study,1
+2025-01-26,Walk,1
+2025-01-27,Study,1
+2025-01-28,Journal,1
+2025-01-28,Meditate,1
+2025-01-28,Study,1
+2025-01-28,Walk,1
+2025-01-29,Drink Water,0
+2025-01-29,Drink Water,1
+2025-01-29,Journal,1
+2025-01-29,Meditate,1
+2025-01-29,Study,1
+2025-01-30,Drink Water,1
+2025-01-30,Study,1
+2025-01-30,Walk,1
+2025-01-31,Drink Water,1
+2025-01-31,Read,0
+2025-01-31,Read,1
+2025-01-31,Study,1
+2025-01-31,Walk,1
+2025-02-01,Drink Water,1
+2025-02-01,Read,1
+2025-02-01,Walk,1
+2025-02-02,Do Homework,0
+2025-02-02,Drink Water,1
+2025-02-02,Read,1
+2025-02-02,Study,1
+2025-02-03,Do Homework,1
+2025-02-03,Drink Water,1
+2025-02-03,Meditate,1
+2025-02-03,Study,1
+2025-02-03,Walk,1
+2025-02-04,Do Homework,1
+2025-02-04,Drink Water,1
+2025-02-04,Journal,1
+2025-02-04,Study,1
+2025-02-04,Walk,1
+2025-02-05,Do Homework,1
+2025-02-05,Drink Water,1
+2025-02-05,Study,1
+2025-02-06,Do Homework,1
+2025-02-06,Meditate,1
+2025-02-06,Read,1
+2025-02-06,Study,1
+2025-02-07,Do Homework,1
+2025-02-07,Drink Water,1
+2025-02-07,Read,1
+2025-02-07,Study,1
+2025-02-07,Walk,1
+2025-02-08,Do Homework,1
+2025-02-08,Drink Water,1
+2025-02-08,Journal,1
+2025-02-08,Study,1
+2025-02-09,Drink Water,1
+2025-02-09,Study,1
+2025-02-10,Do Homework,1
+2025-02-10,Drink Water,1
+2025-02-10,Journal,1
+2025-02-10,Study,1
+2025-02-11,Breakfast,0
+2025-02-11,Breakfast,1
+2025-02-11,Do Homework,1
+2025-02-11,Drink Water,1
+2025-02-11,Meditate,1
+2025-02-11,Read,1
+2025-02-11,Walk,1
+2025-02-12,Breakfast,1
+2025-02-12,Do Homework,1
+2025-02-12,Drink Water,1
+2025-02-12,Exercise,0
+2025-02-12,Study,1
+2025-02-12,Walk,1
+2025-02-13,Breakfast,1
+2025-02-13,Do Homework,1
+2025-02-13,Drink Water,1
+2025-02-13,Study,1
+2025-02-13,Walk,1
+2025-02-14,Breakfast,1
+2025-02-14,Do Homework,1
+2025-02-14,Drink Water,1
+2025-02-14,Exercise,1
+2025-02-14,Read,1
+2025-02-14,Study,1
+2025-02-15,Breakfast,1
+2025-02-15,Do Homework,1
+2025-02-15,Drink Water,1
+2025-02-15,Exercise,1
+2025-02-15,Read,1
+2025-02-16,Breakfast,1
+2025-02-16,Do Homework,1
+2025-02-16,Read,1
+2025-02-16,Study,1
+2025-02-16,Walk,1
+2025-02-17,Breakfast,1
+2025-02-17,Do Homework,1
+2025-02-17,Drink Water,1
+2025-02-17,Exercise,1
+2025-02-17,Study,1
+2025-02-17,Walk,1
+2025-02-18,Breakfast,1
+2025-02-18,Do Homework,1
+2025-02-18,Drink Water,1
+2025-02-18,Exercise,1
+2025-02-18,Study,1
+2025-02-18,Walk,1
+2025-02-19,Breakfast,1
+2025-02-19,Do Homework,1
+2025-02-19,Meditate,1
+2025-02-19,Read,1
+2025-02-19,Study,1
+2025-02-20,Breakfast,1
+2025-02-20,Do Homework,1
+2025-02-20,Drink Water,1
+2025-02-20,Study,1
+2025-02-20,Walk,1
+2025-02-21,Breakfast,1
+2025-02-21,Do Homework,1
+2025-02-21,Drink Water,1
+2025-02-21,Exercise,1
+2025-02-21,Journal,1
+2025-02-21,Meditate,1
+2025-02-21,Study,1
+2025-02-22,Breakfast,1
+2025-02-22,Do Homework,1
+2025-02-22,Exercise,1
+2025-02-22,Read,1
+2025-02-22,Study,1
+2025-02-22,Walk,1
+2025-02-23,Breakfast,1
+2025-02-23,Do Homework,1
+2025-02-23,Drink Water,1
+2025-02-23,Read,1
+2025-02-23,Study,1
+2025-02-23,Walk,1
+2025-02-24,Do Homework,1
+2025-02-24,Drink Water,1
+2025-02-24,Meditate,1
+2025-02-24,Read,1
+2025-02-24,Walk,1
+2025-02-25,Breakfast,1
+2025-02-25,Do Homework,1
+2025-02-25,Journal,1
+2025-02-25,Meditate,1
+2025-02-25,Study,1
+2025-02-25,Walk,1
+2025-02-26,Breakfast,1
+2025-02-26,Do Homework,1
+2025-02-26,Drink Water,1
+2025-02-26,Meditate,1
+2025-02-26,Read,1
+2025-02-26,Study,1
+2025-02-26,Walk,1
+2025-02-27,Breakfast,1
+2025-02-27,Do Homework,1
+2025-02-27,Drink Water,1
+2025-02-27,Read,1
+2025-02-27,Study,1
+2025-02-27,Walk,1
+2025-02-28,Do Homework,1
+2025-02-28,Drink Water,1
+2025-02-28,Meditate,1
+2025-02-28,Study,1
+2025-02-28,Walk,1
+2025-03-01,Breakfast,1
+2025-03-01,Do Homework,1
+2025-03-01,Exercise,1
+2025-03-01,Meditate,1
+2025-03-01,Read,1
+2025-03-01,Study,1
+2025-03-02,Breakfast,1
+2025-03-02,Do Homework,1
+2025-03-02,Drink Water,1
+2025-03-02,Exercise,1
+2025-03-02,Sleep Early,0
+2025-03-02,Study,1
+2025-03-02,Walk,1
+2025-03-03,Breakfast,1
+2025-03-03,Do Homework,1
+2025-03-03,Drink Water,1
+2025-03-03,Exercise,1
+2025-03-03,Sleep Early,1
+2025-03-03,Study,1
+2025-03-03,Walk,1
+2025-03-04,Breakfast,1
+2025-03-04,Drink Water,1
+2025-03-04,Exercise,1
+2025-03-04,Meditate,1
+2025-03-04,Sleep Early,1
+2025-03-04,Study,1
+2025-03-05,Breakfast,1
+2025-03-05,Do Homework,1
+2025-03-05,Exercise,1
+2025-03-05,Sleep Early,1
+2025-03-05,Study,1
+2025-03-05,Walk,1
+2025-03-06,Breakfast,1
+2025-03-06,Do Homework,1
+2025-03-06,Drink Water,1
+2025-03-06,Meditate,1
+2025-03-06,Sleep Early,1
+2025-03-06,Study,1
+2025-03-07,Breakfast,1
+2025-03-07,Do Homework,1
+2025-03-07,Drink Water,1
+2025-03-07,Exercise,1
+2025-03-07,Meditate,1
+2025-03-07,Read,1
+2025-03-07,Sleep Early,1
+2025-03-07,Study,1
+2025-03-08,Breakfast,1
+2025-03-08,Do Homework,1
+2025-03-08,Drink Water,1
+2025-03-08,Meditate,1
+2025-03-08,Sleep Early,1
+2025-03-08,Study,1
+2025-03-08,Walk,1
+2025-03-09,Do Homework,1
+2025-03-09,Drink Water,1
+2025-03-09,Sleep Early,1
+2025-03-09,Study,1
+2025-03-09,Walk,1
+2025-03-10,Breakfast,1
+2025-03-10,Do Homework,1
+2025-03-10,Drink Water,1
+2025-03-10,Exercise,1
+2025-03-10,Meditate,1
+2025-03-10,Sleep Early,1
+2025-03-10,Study,1
+2025-03-10,Walk,1
+2025-03-11,Breakfast,1
+2025-03-11,Do Homework,1
+2025-03-11,Sleep Early,1
+2025-03-11,Study,1
+2025-03-11,Walk,1
+2025-03-12,Breakfast,1
+2025-03-12,Do Homework,1
+2025-03-12,Study,1
+2025-03-12,Walk,1
+2025-03-13,Breakfast,1
+2025-03-13,Do Homework,1
+2025-03-13,Drink Water,1
+2025-03-13,Exercise,1
+2025-03-13,Sleep Early,1
+2025-03-14,Do Homework,1
+2025-03-14,Drink Water,1
+2025-03-14,Exercise,1
+2025-03-14,Sleep Early,1
+2025-03-14,Study,1
+2025-03-15,Do Homework,1
+2025-03-15,Drink Water,1
+2025-03-15,Exercise,1
+2025-03-15,Sleep Early,1
+2025-03-15,Walk,1
+2025-03-16,Breakfast,1
+2025-03-16,Do Homework,1
+2025-03-16,Drink Water,1
+2025-03-16,Meditate,1
+2025-03-16,Sleep Early,1
+2025-03-16,Study,1
+2025-03-16,Walk,1
+2025-03-17,Breakfast,1
+2025-03-17,Do Homework,1
+2025-03-17,Drink Water,1
+2025-03-17,Read,1
+2025-03-17,Sleep Early,1
+2025-03-17,Study,1
+2025-03-17,Walk,1
+2025-03-18,Breakfast,1
+2025-03-18,Do Homework,1
+2025-03-18,Drink Water,1
+2025-03-18,Meditate,1
+2025-03-18,Sleep Early,1
+2025-03-18,Study,1
+2025-03-18,Walk,1
+2025-03-19,Breakfast,1
+2025-03-19,Do Homework,1
+2025-03-19,Drink Water,1
+2025-03-19,Meditate,1
+2025-03-19,Study,1
+2025-03-19,Walk,1
+2025-03-20,Breakfast,1
+2025-03-20,Do Homework,1
+2025-03-20,Drink Water,1
+2025-03-20,Study,1
+2025-03-20,Walk,1
+2025-03-21,Breakfast,1
+2025-03-21,Drink Water,1
+2025-03-21,Sleep Early,1
+2025-03-21,Study,1
+2025-03-22,Do Homework,1
+2025-03-22,Drink Water,1
+2025-03-22,Exercise,1
+2025-03-22,Meditate,1
+2025-03-22,Sleep Early,1
+2025-03-22,Study,1
+2025-03-22,Walk,1
+2025-03-23,Breakfast,1
+2025-03-23,Meditate,1
+2025-03-23,Read,1
+2025-03-23,Sleep Early,1
+2025-03-23,Study,1
+2025-03-23,Walk,1
+2025-03-24,Breakfast,1
+2025-03-24,Read,1
+2025-03-24,Study,1
+2025-03-25,Breakfast,1
+2025-03-25,Do Homework,1
+2025-03-25,Meditate,1
+2025-03-25,Read,1
+2025-03-25,Study,1
+2025-03-25,Walk,1
+2025-03-26,Breakfast,1
+2025-03-26,Do Homework,1
+2025-03-26,Drink Water,1
+2025-03-26,Read,1
+2025-03-26,Sleep Early,1
+2025-03-26,Study,1
+2025-03-26,Walk,1
+2025-03-27,Do Homework,1
+2025-03-27,Drink Water,1
+2025-03-27,Meditate,1
+2025-03-27,Sleep Early,1
+2025-03-27,Study,1
+2025-03-27,Walk,1
+2025-03-28,Breakfast,1
+2025-03-28,Do Homework,1
+2025-03-28,Drink Water,1
+2025-03-28,Sleep Early,1
+2025-03-28,Study,1
+2025-03-28,Walk,1
+2025-03-29,Do Homework,1
+2025-03-29,Drink Water,1
+2025-03-29,Exercise,1
+2025-03-29,Meditate,1
+2025-03-29,Read,1
+2025-03-29,Sleep Early,1
+2025-03-29,Study,1
+2025-03-29,Walk,1
+2025-03-30,Breakfast,1
+2025-03-30,Do Homework,1
+2025-03-30,Drink Water,1
+2025-03-30,Exercise,1
+2025-03-30,Sleep Early,1
+2025-03-30,Walk,1
+2025-03-31,Breakfast,1
+2025-03-31,Do Homework,1
+2025-03-31,Drink Water,1
+2025-03-31,Exercise,1
+2025-03-31,Meditate,1
+2025-03-31,Sleep Early,1
+2025-03-31,Study,1
+2025-03-31,Walk,1
+2025-04-01,Breakfast,1
+2025-04-01,Do Homework,1
+2025-04-01,Drink Water,1
+2025-04-01,Exercise,1
+2025-04-01,Meditate,1
+2025-04-01,Sleep Early,1
+2025-04-01,Study,1
+2025-04-01,Walk,1
+2025-04-02,Breakfast,1
+2025-04-02,Do Homework,1
+2025-04-02,Drink Water,1
+2025-04-02,Read,1
+2025-04-02,Sleep Early,1
+2025-04-02,Study,1
+2025-04-02,Walk,1
+2025-04-03,Breakfast,1
+2025-04-03,Do Homework,1
+2025-04-03,Drink Water,1
+2025-04-03,Exercise,1
+2025-04-03,Study,1
+2025-04-03,Walk,1
+2025-04-04,Breakfast,1
+2025-04-04,Do Homework,1
+2025-04-04,Drink Water,1
+2025-04-04,Exercise,1
+2025-04-04,Journal,1
+2025-04-04,Sleep Early,1
+2025-04-04,Study,1
+2025-04-04,Walk,1
+2025-04-05,Breakfast,1
+2025-04-05,Do Homework,1
+2025-04-05,Drink Water,1
+2025-04-05,Meditate,1
+2025-04-05,Study,1
+2025-04-05,Walk,1
+2025-04-06,Breakfast,1
+2025-04-06,Do Homework,1
+2025-04-06,Drink Water,1
+2025-04-06,Exercise,1
+2025-04-06,Read,1
+2025-04-06,Sleep Early,1
+2025-04-06,Study,1
+2025-04-07,Breakfast,1
+2025-04-07,Do Homework,1
+2025-04-07,Drink Water,1
+2025-04-07,Exercise,1
+2025-04-07,Sleep Early,1
+2025-04-07,Study,1
+2025-04-07,Walk,1
+2025-04-08,Breakfast,1
+2025-04-08,Do Homework,1
+2025-04-08,Drink Water,1
+2025-04-08,Exercise,1
+2025-04-08,Journal,1
+2025-04-08,Read,1
+2025-04-08,Sleep Early,1
+2025-04-08,Walk,1
+2025-04-09,Breakfast,1
+2025-04-09,Do Homework,1
+2025-04-09,Drink Water,1
+2025-04-09,Exercise,1
+2025-04-09,Sleep Early,1
+2025-04-09,Study,1
+2025-04-10,Breakfast,1
+2025-04-10,Do Homework,1
+2025-04-10,Drink Water,1
+2025-04-10,Exercise,1
+2025-04-10,Study,1
+2025-04-10,Walk,1
+2025-04-11,Breakfast,1
+2025-04-11,Do Homework,1
+2025-04-11,Drink Water,1
+2025-04-11,Read,1
+2025-04-11,Sleep Early,1
+2025-04-11,Study,1
+2025-04-12,Breakfast,1
+2025-04-12,Do Homework,1
+2025-04-12,Drink Water,1
+2025-04-12,Read,1
+2025-04-12,Sleep Early,1
+2025-04-12,Study,1
+2025-04-12,Walk,1
+2025-04-13,Breakfast,1
+2025-04-13,Do Homework,1
+2025-04-13,Drink Water,1
+2025-04-13,Meditate,1
+2025-04-13,Study,1
+2025-04-13,Walk,1
+2025-04-14,Breakfast,1
+2025-04-14,Do Homework,1
+2025-04-14,Drink Water,1
+2025-04-14,Exercise,1
+2025-04-14,Journal,1
+2025-04-14,Study,1
+2025-04-15,Breakfast,1
+2025-04-15,Do Homework,1
+2025-04-15,Drink Water,1
+2025-04-15,Exercise,1
+2025-04-15,Journal,1
+2025-04-15,Meditate,1
+2025-04-15,Sleep Early,1
+2025-04-15,Study,1
+2025-04-15,Walk,1
+2025-04-16,Breakfast,1
+2025-04-16,Do Homework,1
+2025-04-16,Exercise,1
+2025-04-16,Sleep Early,1
+2025-04-16,Study,1
+2025-04-17,Breakfast,1
+2025-04-17,Do Homework,1
+2025-04-17,Drink Water,1
+2025-04-17,Exercise,1
+2025-04-17,Journal,1
+2025-04-17,Read,1
+2025-04-17,Sleep Early,1
+2025-04-17,Study,1
+2025-04-17,Walk,1
+2025-04-18,Breakfast,1
+2025-04-18,Do Homework,1
+2025-04-18,Drink Water,1
+2025-04-18,Exercise,1
+2025-04-18,Read,1
+2025-04-18,Sleep Early,1
+2025-04-18,Study,1
+2025-04-18,Walk,1
+2025-04-19,Breakfast,1
+2025-04-19,Do Homework,1
+2025-04-19,Sleep Early,1
+2025-04-19,Study,1
+2025-04-19,Walk,1
+2025-04-20,Do Homework,1
+2025-04-20,Exercise,1
+2025-04-20,Study,1
+2025-04-20,Walk,1
+2025-04-21,Breakfast,1
+2025-04-21,Drink Water,1
+2025-04-21,Exercise,1
+2025-04-21,Meditate,1
+2025-04-21,Sleep Early,1
+2025-04-21,Study,1
+2025-04-21,Walk,1
+2025-04-22,Breakfast,1
+2025-04-22,Do Homework,1
+2025-04-22,Drink Water,1
+2025-04-22,Study,1
+2025-04-23,Breakfast,1
+2025-04-23,Do Homework,1
+2025-04-23,Drink Water,1
+2025-04-23,Study,1
+2025-04-23,Walk,1
+2025-04-24,Breakfast,1
+2025-04-24,Do Homework,1
+2025-04-24,Drink Water,1
+2025-04-24,Exercise,1
+2025-04-24,Meditate,1
+2025-04-24,Sleep Early,1
+2025-04-24,Study,1
+2025-04-24,Walk,1
+2025-04-25,Breakfast,1
+2025-04-25,Drink Water,1
+2025-04-25,Exercise,1
+2025-04-25,Journal,1
+2025-04-25,Sleep Early,1
+2025-04-25,Study,1
+2025-04-25,Walk,1
+2025-04-26,Breakfast,1
+2025-04-26,Do Homework,1
+2025-04-26,Drink Water,1
+2025-04-26,Exercise,1
+2025-04-26,Sleep Early,1
+2025-04-26,Study,1
+2025-04-27,Breakfast,1
+2025-04-27,Do Homework,1
+2025-04-27,Drink Water,1
+2025-04-27,Exercise,1
+2025-04-27,Journal,1
+2025-04-27,Sleep Early,1
+2025-04-27,Study,1
+2025-04-27,Walk,1
+2025-04-28,Breakfast,1
+2025-04-28,Do Homework,1
+2025-04-28,Drink Water,1
+2025-04-28,Exercise,1
+2025-04-28,Meditate,1
+2025-04-28,Sleep Early,1
+2025-04-28,Study,1
+2025-04-29,Breakfast,1
+2025-04-29,Do Homework,1
+2025-04-29,Drink Water,1
+2025-04-29,Exercise,1
+2025-04-29,Sleep Early,1
+2025-04-29,Study,1
+2025-04-30,Breakfast,1
+2025-04-30,Do Homework,1
+2025-04-30,Drink Water,1
+2025-04-30,Exercise,1
+2025-04-30,Meditate,1
+2025-04-30,Study,1
+2025-05-01,Breakfast,1
+2025-05-01,Drink Water,1
+2025-05-01,Exercise,1
+2025-05-01,Meditate,1
+2025-05-01,Read,1
+2025-05-01,Study,1
+2025-05-01,Walk,1
+2025-05-02,Breakfast,1
+2025-05-02,Do Homework,1
+2025-05-02,Drink Water,1
+2025-05-02,Exercise,1
+2025-05-02,Meditate,1
+2025-05-02,Sleep Early,1
+2025-05-02,Walk,1
+2025-05-03,Breakfast,1
+2025-05-03,Do Homework,1
+2025-05-03,Drink Water,1
+2025-05-03,Meditate,1
+2025-05-03,Sleep Early,1
+2025-05-03,Study,1
+2025-05-03,Walk,1
+2025-05-04,Breakfast,1
+2025-05-04,Do Homework,1
+2025-05-04,Drink Water,1
+2025-05-04,Meditate,1
+2025-05-04,Sleep Early,1
+2025-05-04,Study,1
+2025-05-05,Breakfast,1
+2025-05-05,Drink Water,1
+2025-05-05,Exercise,1
+2025-05-05,Journal,1
+2025-05-05,Sleep Early,1
+2025-05-05,Study,1
+2025-05-05,Walk,1
+2025-05-06,Breakfast,1
+2025-05-06,Do Homework,1
+2025-05-06,Drink Water,1
+2025-05-06,Read,1
+2025-05-06,Sleep Early,1
+2025-05-06,Study,1
+2025-05-06,Walk,1
+2025-05-07,Breakfast,1
+2025-05-07,Do Homework,1
+2025-05-07,Drink Water,1
+2025-05-07,Journal,1
+2025-05-07,Meditate,1
+2025-05-07,Study,1
+2025-05-07,Walk,1
+2025-05-08,Breakfast,1
+2025-05-08,Do Homework,1
+2025-05-08,Sleep Early,1
+2025-05-08,Study,1
+2025-05-08,Walk,1
+2025-05-09,Breakfast,1
+2025-05-09,Do Homework,1
+2025-05-09,Drink Water,1
+2025-05-09,Sleep Early,1
+2025-05-09,Study,1
+2025-05-10,Breakfast,1
+2025-05-10,Do Homework,1
+2025-05-10,Drink Water,1
+2025-05-10,Sleep Early,1
+2025-05-10,Study,1
+2025-05-10,Walk,1
+2025-05-11,Breakfast,1
+2025-05-11,Do Homework,1
+2025-05-11,Drink Water,1
+2025-05-11,Read,1
+2025-05-11,Sleep Early,1
+2025-05-11,Study,1
+2025-05-12,Breakfast,1
+2025-05-12,Do Homework,1
+2025-05-12,Drink Water,1
+2025-05-12,Exercise,1
+2025-05-12,Read,1
+2025-05-12,Sleep Early,1
+2025-05-12,Study,1
+2025-05-13,Breakfast,1
+2025-05-13,Do Homework,1
+2025-05-13,Drink Water,1
+2025-05-13,Read,1
+2025-05-13,Sleep Early,1
+2025-05-13,Walk,1
+2025-05-14,Breakfast,1
+2025-05-14,Do Homework,1
+2025-05-14,Drink Water,1
+2025-05-14,Exercise,1
+2025-05-14,Journal,1
+2025-05-14,Sleep Early,1
+2025-05-14,Study,1
+2025-05-14,Walk,1
+2025-05-15,Breakfast,1
+2025-05-15,Do Homework,1
+2025-05-15,Exercise,1
+2025-05-15,Meditate,1
+2025-05-15,Sleep Early,1
+2025-05-15,Study,1
+2025-05-15,Walk,1
+2025-05-16,Breakfast,1
+2025-05-16,Do Homework,1
+2025-05-16,Drink Water,1
+2025-05-16,Meditate,1
+2025-05-16,Sleep Early,1
+2025-05-16,Study,1
+2025-05-17,Breakfast,1
+2025-05-17,Drink Water,1
+2025-05-17,Meditate,1
+2025-05-17,Sleep Early,1
+2025-05-17,Study,1
+2025-05-17,Walk,1
+2025-05-18,Breakfast,1
+2025-05-18,Do Homework,1
+2025-05-18,Meditate,1
+2025-05-18,Read,1
+2025-05-18,Sleep Early,1
+2025-05-18,Study,1
+2025-05-19,Breakfast,1
+2025-05-19,Do Homework,1
+2025-05-19,Drink Water,1
+2025-05-19,Meditate,1
+2025-05-19,Sleep Early,1
+2025-05-19,Study,1
+2025-05-19,Walk,1
+2025-05-20,Breakfast,1
+2025-05-20,Do Homework,1
+2025-05-20,Drink Water,1
+2025-05-20,Read,1
+2025-05-20,Sleep Early,1
+2025-05-20,Study,1
+2025-05-20,Walk,1
+2025-05-21,Breakfast,1
+2025-05-21,Do Homework,1
+2025-05-21,Drink Water,1
+2025-05-21,Meditate,1
+2025-05-21,Sleep Early,1
+2025-05-21,Walk,1
+2025-05-22,Do Homework,1
+2025-05-22,Drink Water,1
+2025-05-22,Journal,1
+2025-05-22,Meditate,1
+2025-05-22,Study,1
+2025-05-23,Breakfast,1
+2025-05-23,Do Homework,1
+2025-05-23,Drink Water,1
+2025-05-23,Meditate,1
+2025-05-23,Read,1
+2025-05-23,Sleep Early,1
+2025-05-23,Study,1
+2025-05-23,Walk,1
+2025-05-24,Breakfast,1
+2025-05-24,Drink Water,1
+2025-05-24,Meditate,1
+2025-05-24,Read,1
+2025-05-24,Sleep Early,1
+2025-05-24,Study,1
+2025-05-25,Breakfast,1
+2025-05-25,Exercise,1
+2025-05-25,Meditate,1
+2025-05-25,Sleep Early,1
+2025-05-25,Study,1
+2025-05-26,Do Homework,1
+2025-05-26,Drink Water,1
+2025-05-26,Meditate,1
+2025-05-26,Sleep Early,1
+2025-05-26,Study,1
+2025-05-26,Walk,1
+2025-05-27,Breakfast,1
+2025-05-27,Do Homework,1
+2025-05-27,Drink Water,1
+2025-05-27,Meditate,1
+2025-05-27,Read,1
+2025-05-27,Sleep Early,1
+2025-05-27,Study,1
+2025-05-28,Breakfast,1
+2025-05-28,Do Homework,1
+2025-05-28,Sleep Early,1
+2025-05-28,Study,1
+2025-05-29,Breakfast,1
+2025-05-29,Do Homework,1
+2025-05-29,Drink Water,1
+2025-05-29,Exercise,1
+2025-05-29,Study,1
+2025-05-30,Breakfast,1
+2025-05-30,Do Homework,1
+2025-05-30,Drink Water,1
+2025-05-30,Exercise,1
+2025-05-30,Read,1
+2025-05-30,Sleep Early,1
+2025-05-30,Study,1
+2025-05-31,Breakfast,1
+2025-05-31,Do Homework,1
+2025-05-31,Drink Water,1
+2025-05-31,Meditate,1
+2025-05-31,Sleep Early,1
+2025-05-31,Study,1
+2025-06-01,Breakfast,1
+2025-06-01,Drink Water,1
+2025-06-01,Read,1
+2025-06-01,Study,1
+2025-06-02,Breakfast,1
+2025-06-02,Do Homework,1
+2025-06-02,Drink Water,1
+2025-06-02,Read,1
+2025-06-02,Sleep Early,1
+2025-06-02,Study,1
+2025-06-03,Breakfast,1
+2025-06-03,Do Homework,1
+2025-06-03,Exercise,1
+2025-06-03,Meditate,1
+2025-06-03,Sleep Early,1
+2025-06-03,Walk,1
+2025-06-04,Breakfast,1
+2025-06-04,Do Homework,1
+2025-06-04,Sleep Early,1
+2025-06-04,Study,1
+2025-06-05,Breakfast,1
+2025-06-05,Do Homework,1
+2025-06-05,Meditate,1
+2025-06-05,Sleep Early,1
+2025-06-05,Study,1
+2025-06-05,Walk,1
+2025-06-06,Breakfast,1
+2025-06-06,Do Homework,1
+2025-06-06,Drink Water,1
+2025-06-06,Exercise,1
+2025-06-06,Journal,1
+2025-06-06,Sleep Early,1
+2025-06-06,Study,1
+2025-06-06,Walk,1
+2025-06-07,Breakfast,1
+2025-06-07,Do Homework,1
+2025-06-07,Drink Water,1
+2025-06-07,Exercise,1
+2025-06-07,Meditate,1
+2025-06-07,Sleep Early,1
+2025-06-07,Study,1
+2025-06-07,Walk,1
+2025-06-08,Breakfast,1
+2025-06-08,Do Homework,1
+2025-06-08,Read,1
+2025-06-08,Study,1
+2025-06-09,Breakfast,1
+2025-06-09,Do Homework,1
+2025-06-09,Drink Water,1
+2025-06-09,Read,1
+2025-06-09,Sleep Early,1
+2025-06-09,Study,1
+2025-06-10,Breakfast,1
+2025-06-10,Do Homework,1
+2025-06-10,Drink Water,1
+2025-06-10,Exercise,1
+2025-06-10,Study,1
+2025-06-10,Walk,1
+2025-06-11,Breakfast,1
+2025-06-11,Do Homework,1
+2025-06-11,Drink Water,1
+2025-06-11,Exercise,1
+2025-06-11,Sleep Early,1
+2025-06-11,Walk,1
+2025-06-12,Breakfast,1
+2025-06-12,Do Homework,1
+2025-06-12,Read,1
+2025-06-12,Study,1
+2025-06-12,Walk,1
+2025-06-13,Breakfast,1
+2025-06-13,Do Homework,1
+2025-06-13,Meditate,1
+2025-06-13,Sleep Early,1
+2025-06-13,Study,1
+2025-06-14,Breakfast,1
+2025-06-14,Do Homework,1
+2025-06-14,Drink Water,1
+2025-06-14,Exercise,1
+2025-06-14,Journal,1
+2025-06-14,Read,1
+2025-06-14,Sleep Early,1
+2025-06-14,Study,1
+2025-06-14,Walk,1
+2025-06-15,Breakfast,1
+2025-06-15,Do Homework,1
+2025-06-15,Drink Water,1
+2025-06-15,Read,1
+2025-06-15,Sleep Early,1
+2025-06-15,Study,1
+2025-06-15,Walk,1
+2025-06-16,Breakfast,1
+2025-06-16,Do Homework,1
+2025-06-16,Drink Water,1
+2025-06-16,Exercise,1
+2025-06-16,Journal,1
+2025-06-16,Meditate,1
+2025-06-16,Read,1
+2025-06-16,Study,1
+2025-06-17,Breakfast,1
+2025-06-17,Do Homework,1
+2025-06-17,Drink Water,1
+2025-06-17,Exercise,1
+2025-06-17,Meditate,1
+2025-06-17,Sleep Early,1
+2025-06-17,Study,1
+2025-06-17,Walk,1
+2025-06-18,Breakfast,1
+2025-06-18,Do Homework,1
+2025-06-18,Drink Water,1
+2025-06-18,Sleep Early,1
+2025-06-18,Study,1
+2025-06-19,Breakfast,1
+2025-06-19,Do Homework,1
+2025-06-19,Drink Water,1
+2025-06-19,Meditate,1
+2025-06-19,Sleep Early,1
+2025-06-19,Study,1
+2025-06-19,Walk,1
+2025-06-20,Breakfast,1
+2025-06-20,Do Homework,1
+2025-06-20,Drink Water,1
+2025-06-20,Exercise,1
+2025-06-20,Meditate,1
+2025-06-20,Read,1
+2025-06-20,Sleep Early,1
+2025-06-20,Study,1
+2025-06-20,Walk,1
+2025-06-21,Breakfast,1
+2025-06-21,Do Homework,1
+2025-06-21,Exercise,1
+2025-06-21,Meditate,1
+2025-06-21,Sleep Early,1
+2025-06-21,Study,1
+2025-06-21,Walk,1
+2025-06-22,Breakfast,1
+2025-06-22,Do Homework,1
+2025-06-22,Drink Water,1
+2025-06-22,Exercise,1
+2025-06-22,Meditate,1
+2025-06-22,Sleep Early,1
+2025-06-22,Study,1
+2025-06-23,Breakfast,1
+2025-06-23,Do Homework,1
+2025-06-23,Drink Water,1
+2025-06-23,Exercise,1
+2025-06-23,Read,1
+2025-06-23,Sleep Early,1
+2025-06-23,Study,1
+2025-06-23,Walk,1
+2025-06-24,Breakfast,1
+2025-06-24,Do Homework,1
+2025-06-24,Drink Water,1
+2025-06-24,Read,1
+2025-06-24,Sleep Early,1
+2025-06-24,Study,1
+2025-06-24,Walk,1
+2025-06-25,Breakfast,1
+2025-06-25,Do Homework,1
+2025-06-25,Drink Water,1
+2025-06-25,Sleep Early,1
+2025-06-25,Study,1
+2025-06-25,Walk,1
+2025-06-26,Do Homework,1
+2025-06-26,Meditate,1
+2025-06-26,Read,1
+2025-06-26,Sleep Early,1
+2025-06-26,Study,1
+2025-06-27,Breakfast,1
+2025-06-27,Do Homework,1
+2025-06-27,Drink Water,1
+2025-06-27,Exercise,1
+2025-06-27,Journal,1
+2025-06-27,Read,1
+2025-06-27,Sleep Early,1
+2025-06-27,Study,1
+2025-06-28,Breakfast,1
+2025-06-28,Do Homework,1
+2025-06-28,Drink Water,1
+2025-06-28,Exercise,1
+2025-06-28,Sleep Early,1
+2025-06-28,Study,1
+2025-06-28,Walk,1
+2025-06-29,Breakfast,1
+2025-06-29,Exercise,1
+2025-06-29,Read,1
+2025-06-29,Study,1
+2025-06-29,Walk,1
+2025-06-30,Breakfast,1
+2025-06-30,Do Homework,1
+2025-06-30,Drink Water,1
+2025-06-30,Exercise,1
+2025-06-30,Study,1
+2025-06-30,Walk,1
+2025-07-01,Breakfast,1
+2025-07-01,Do Homework,1
+2025-07-01,Drink Water,1
+2025-07-01,Exercise,1
+2025-07-01,Read,1
+2025-07-01,Sleep Early,1
+2025-07-01,Study,1
+2025-07-01,Walk,1
+2025-07-02,Breakfast,1
+2025-07-02,Do Homework,1
+2025-07-02,Drink Water,1
+2025-07-02,Sleep Early,1
+2025-07-02,Study,1
+2025-07-02,Walk,1
+2025-07-03,Breakfast,1
+2025-07-03,Do Homework,1
+2025-07-03,Drink Water,1
+2025-07-03,Exercise,1
+2025-07-03,Read,1
+2025-07-04,Breakfast,1
+2025-07-04,Do Homework,1
+2025-07-04,Drink Water,1
+2025-07-04,Exercise,1
+2025-07-04,Journal,1
+2025-07-04,Sleep Early,1
+2025-07-04,Walk,1
+2025-07-05,Breakfast,1
+2025-07-05,Do Homework,1
+2025-07-05,Drink Water,1
+2025-07-05,Sleep Early,1
+2025-07-05,Study,1
+2025-07-05,Walk,1
+2025-07-06,Breakfast,1
+2025-07-06,Do Homework,1
+2025-07-06,Drink Water,1
+2025-07-06,Exercise,1
+2025-07-06,Meditate,1
+2025-07-06,Walk,1
+2025-07-07,Breakfast,1
+2025-07-07,Do Homework,1
+2025-07-07,Read,1
+2025-07-07,Sleep Early,1
+2025-07-07,Study,1
+2025-07-08,Breakfast,1
+2025-07-08,Do Homework,1
+2025-07-08,Drink Water,1
+2025-07-08,Journal,1
+2025-07-08,Meditate,1
+2025-07-08,Study,1
+2025-07-08,Walk,1
+2025-07-09,Breakfast,1
+2025-07-09,Do Homework,1
+2025-07-09,Drink Water,1
+2025-07-09,Exercise,1
+2025-07-09,Read,1
+2025-07-09,Sleep Early,1
+2025-07-09,Study,1
+2025-07-10,Breakfast,1
+2025-07-10,Do Homework,1
+2025-07-10,Exercise,1
+2025-07-10,Meditate,1
+2025-07-10,Sleep Early,1
+2025-07-10,Study,1
+2025-07-11,Breakfast,1
+2025-07-11,Drink Water,1
+2025-07-11,Exercise,1
+2025-07-11,Read,1
+2025-07-11,Sleep Early,1
+2025-07-11,Study,1
+2025-07-11,Walk,1
+2025-07-12,Breakfast,1
+2025-07-12,Drink Water,1
+2025-07-12,Exercise,1
+2025-07-12,Read,1
+2025-07-12,Sleep Early,1
+2025-07-12,Study,1
+2025-07-12,Walk,1
+2025-07-13,Breakfast,1
+2025-07-13,Do Homework,1
+2025-07-13,Drink Water,1
+2025-07-13,Exercise,1
+2025-07-13,Sleep Early,1
+2025-07-13,Study,1
+2025-07-14,Breakfast,1
+2025-07-14,Do Homework,1
+2025-07-14,Drink Water,1
+2025-07-14,Read,1
+2025-07-14,Sleep Early,1
+2025-07-14,Study,1
+2025-07-14,Walk,1
+2025-07-15,Breakfast,1
+2025-07-15,Do Homework,1
+2025-07-15,Meditate,1
+2025-07-15,Sleep Early,1
+2025-07-15,Study,1
+2025-07-16,Do Homework,1
+2025-07-16,Exercise,1
+2025-07-16,Read,1
+2025-07-16,Sleep Early,1
+2025-07-16,Study,1
+2025-07-16,Walk,1
+2025-07-17,Breakfast,1
+2025-07-17,Do Homework,1
+2025-07-17,Drink Water,1
+2025-07-17,Sleep Early,1
+2025-07-17,Study,1
+2025-07-18,Breakfast,1
+2025-07-18,Do Homework,1
+2025-07-18,Drink Water,1
+2025-07-18,Meditate,1
+2025-07-18,Study,1
+2025-07-18,Walk,1
+2025-07-19,Breakfast,1
+2025-07-19,Drink Water,1
+2025-07-19,Exercise,1
+2025-07-19,Sleep Early,1
+2025-07-19,Study,1
+2025-07-20,Breakfast,1
+2025-07-20,Do Homework,1
+2025-07-20,Drink Water,1
+2025-07-20,Exercise,1
+2025-07-20,Meditate,1
+2025-07-20,Sleep Early,1
+2025-07-20,Study,1
+2025-07-21,Breakfast,1
+2025-07-21,Do Homework,1
+2025-07-21,Drink Water,1
+2025-07-21,Read,1
+2025-07-21,Walk,1
+2025-07-22,Breakfast,1
+2025-07-22,Do Homework,1
+2025-07-22,Drink Water,1
+2025-07-22,Exercise,1
+2025-07-22,Meditate,1
+2025-07-22,Study,1
+2025-07-23,Do Homework,1
+2025-07-23,Drink Water,1
+2025-07-23,Read,1
+2025-07-23,Sleep Early,1
+2025-07-23,Study,1
+2025-07-23,Walk,1
+2025-07-24,Breakfast,1
+2025-07-24,Do Homework,1
+2025-07-24,Drink Water,1
+2025-07-24,Exercise,1
+2025-07-24,Meditate,1
+2025-07-24,Sleep Early,1
+2025-07-24,Study,1
+2025-07-24,Walk,1
+2025-07-25,Breakfast,1
+2025-07-25,Do Homework,1
+2025-07-25,Drink Water,1
+2025-07-25,Exercise,1
+2025-07-25,Sleep Early,1
+2025-07-25,Study,1
+2025-07-25,Walk,1
+2025-07-26,Breakfast,1
+2025-07-26,Drink Water,1
+2025-07-26,Sleep Early,1
+2025-07-26,Study,1
+2025-07-27,Breakfast,1
+2025-07-27,Do Homework,1
+2025-07-27,Drink Water,1
+2025-07-27,Exercise,1
+2025-07-27,Sleep Early,1
+2025-07-27,Study,1
+2025-07-27,Walk,1
+2025-07-28,Breakfast,1
+2025-07-28,Do Homework,1
+2025-07-28,Drink Water,1
+2025-07-28,Exercise,1
+2025-07-28,Read,1
+2025-07-28,Sleep Early,1
+2025-07-28,Study,1
+2025-07-29,Do Homework,1
+2025-07-29,Drink Water,1
+2025-07-29,Exercise,1
+2025-07-29,Sleep Early,1
+2025-07-29,Study,1
+2025-07-30,Breakfast,1
+2025-07-30,Exercise,1
+2025-07-30,Sleep Early,1
+2025-07-30,Study,1
+2025-07-30,Walk,1
+2025-07-31,Breakfast,1
+2025-07-31,Do Homework,1
+2025-07-31,Drink Water,1
+2025-07-31,Exercise,1
+2025-07-31,Meditate,1
+2025-07-31,Read,1
+2025-07-31,Study,1
+2025-07-31,Walk,1
+2025-08-01,Breakfast,1
+2025-08-01,Do Homework,1
+2025-08-01,Drink Water,1
+2025-08-01,Exercise,1
+2025-08-01,Sleep Early,1
+2025-08-01,Study,1
+2025-08-02,Breakfast,1
+2025-08-02,Do Homework,1
+2025-08-02,Exercise,1
+2025-08-02,Read,1
+2025-08-02,Sleep Early,1
+2025-08-02,Study,1
+2025-08-02,Walk,1
+2025-08-03,Breakfast,1
+2025-08-03,Do Homework,1
+2025-08-03,Drink Water,1
+2025-08-03,Journal,1
+2025-08-03,Meditate,1
+2025-08-03,Sleep Early,1
+2025-08-03,Study,1
+2025-08-03,Walk,1
+2025-08-04,Breakfast,1
+2025-08-04,Do Homework,1
+2025-08-04,Sleep Early,1
+2025-08-04,Study,1
+2025-08-05,Breakfast,1
+2025-08-05,Do Homework,1
+2025-08-05,Drink Water,1
+2025-08-05,Read,1
+2025-08-05,Sleep Early,1
+2025-08-05,Study,1
+2025-08-05,Walk,1
+2025-08-06,Breakfast,1
+2025-08-06,Do Homework,1
+2025-08-06,Meditate,1
+2025-08-06,Sleep Early,1
+2025-08-06,Study,1
+2025-08-07,Breakfast,1
+2025-08-07,Do Homework,1
+2025-08-07,Read,1
+2025-08-07,Sleep Early,1
+2025-08-07,Study,1
+2025-08-07,Walk,1
+2025-08-08,Breakfast,1
+2025-08-08,Do Homework,1
+2025-08-08,Drink Water,1
+2025-08-08,Exercise,1
+2025-08-08,Meditate,1
+2025-08-08,Study,1
+2025-08-08,Walk,1
+2025-08-09,Breakfast,1
+2025-08-09,Do Homework,1
+2025-08-09,Drink Water,1
+2025-08-09,Exercise,1
+2025-08-09,Read,1
+2025-08-09,Sleep Early,1
+2025-08-09,Study,1
+2025-08-10,Breakfast,1
+2025-08-10,Do Homework,1
+2025-08-10,Drink Water,1
+2025-08-10,Exercise,1
+2025-08-10,Read,1
+2025-08-10,Study,1
+2025-08-10,Walk,1
+2025-08-11,Breakfast,1
+2025-08-11,Do Homework,1
+2025-08-11,Exercise,1
+2025-08-11,Read,1
+2025-08-11,Sleep Early,1
+2025-08-11,Study,1
+2025-08-11,Walk,1
+2025-08-12,Breakfast,1
+2025-08-12,Do Homework,1
+2025-08-12,Exercise,1
+2025-08-12,Sleep Early,1
+2025-08-12,Study,1
+2025-08-13,Breakfast,1
+2025-08-13,Do Homework,1
+2025-08-13,Drink Water,1
+2025-08-13,Exercise,1
+2025-08-13,Read,1
+2025-08-13,Sleep Early,1
+2025-08-13,Study,1
+2025-08-14,Breakfast,1
+2025-08-14,Drink Water,1
+2025-08-14,Exercise,1
+2025-08-14,Sleep Early,1
+2025-08-14,Study,1
+2025-08-14,Walk,1
+2025-08-15,Breakfast,1
+2025-08-15,Do Homework,1
+2025-08-15,Drink Water,1
+2025-08-15,Meditate,1
+2025-08-15,Sleep Early,1
+2025-08-15,Study,1
+2025-08-15,Walk,1
+2025-08-16,Breakfast,1
+2025-08-16,Do Homework,1
+2025-08-16,Exercise,1
+2025-08-16,Sleep Early,1
+2025-08-16,Study,1
+2025-08-17,Breakfast,1
+2025-08-17,Do Homework,1
+2025-08-17,Drink Water,1
+2025-08-17,Exercise,1
+2025-08-17,Journal,1
+2025-08-17,Read,1
+2025-08-17,Sleep Early,1
+2025-08-17,Study,1
+2025-08-18,Breakfast,1
+2025-08-18,Do Homework,1
+2025-08-18,Drink Water,1
+2025-08-18,Exercise,1
+2025-08-18,Meditate,1
+2025-08-18,Read,1
+2025-08-18,Sleep Early,1
+2025-08-18,Study,1
+2025-08-19,Breakfast,1
+2025-08-19,Do Homework,1
+2025-08-19,Drink Water,1
+2025-08-19,Meditate,1
+2025-08-19,Study,1
+2025-08-20,Breakfast,1
+2025-08-20,Drink Water,1
+2025-08-20,Journal,1
+2025-08-20,Study,1
+2025-08-21,Breakfast,1
+2025-08-21,Do Homework,1
+2025-08-21,Drink Water,1
+2025-08-22,Do Homework,1
+2025-08-22,Exercise,1
+2025-08-22,Meditate,1
+2025-08-22,Sleep Early,1
+2025-08-22,Study,1
+2025-08-23,Breakfast,1
+2025-08-23,Drink Water,1
+2025-08-23,Exercise,1
+2025-08-23,Sleep Early,1
+2025-08-23,Study,1
+2025-08-23,Walk,1
+2025-08-24,Breakfast,1
+2025-08-24,Do Homework,1
+2025-08-24,Drink Water,1
+2025-08-24,Exercise,1
+2025-08-24,Meditate,1
+2025-08-24,Read,1
+2025-08-24,Sleep Early,1
+2025-08-24,Study,1
+2025-08-25,Breakfast,1
+2025-08-25,Do Homework,1
+2025-08-25,Sleep Early,1
+2025-08-25,Study,1
+2025-08-25,Walk,1
+2025-08-26,Breakfast,1
+2025-08-26,Drink Water,1
+2025-08-26,Meditate,1
+2025-08-26,Sleep Early,1
+2025-08-26,Study,1
+2025-08-26,Walk,1
+2025-08-27,Breakfast,1
+2025-08-27,Do Homework,1
+2025-08-27,Drink Water,1
+2025-08-27,Exercise,1
+2025-08-27,Sleep Early,1
+2025-08-27,Study,1
+2025-08-28,Do Homework,1
+2025-08-28,Drink Water,1
+2025-08-28,Exercise,1
+2025-08-28,Meditate,1
+2025-08-28,Sleep Early,1
+2025-08-28,Study,1
+2025-08-29,Do Homework,1
+2025-08-29,Drink Water,1
+2025-08-29,Exercise,1
+2025-08-29,Meditate,1
+2025-08-29,Sleep Early,1
+2025-08-29,Study,1
+2025-08-29,Walk,1
+2025-08-30,Breakfast,1
+2025-08-30,Do Homework,1
+2025-08-30,Drink Water,1
+2025-08-30,Exercise,1
+2025-08-30,Read,1
+2025-08-30,Study,1
+2025-08-31,Breakfast,1
+2025-08-31,Drink Water,1
+2025-08-31,Sleep Early,1
+2025-08-31,Study,1
+2025-08-31,Walk,1
+2025-09-01,Breakfast,1
+2025-09-01,Do Homework,1
+2025-09-01,Drink Water,1
+2025-09-01,Exercise,1
+2025-09-01,Sleep Early,1
+2025-09-01,Study,1
+2025-09-01,Walk,1
+2025-09-02,Breakfast,1
+2025-09-02,Do Homework,1
+2025-09-02,Exercise,1
+2025-09-02,Read,1
+2025-09-02,Sleep Early,1
+2025-09-02,Study,1
+2025-09-02,Walk,1
+2025-09-03,Breakfast,1
+2025-09-03,Do Homework,1
+2025-09-03,Drink Water,1
+2025-09-03,Sleep Early,1
+2025-09-03,Study,1
+2025-09-03,Walk,1
+2025-09-04,Breakfast,1
+2025-09-04,Do Homework,1
+2025-09-04,Drink Water,1
+2025-09-04,Exercise,1
+2025-09-04,Read,1
+2025-09-04,Sleep Early,1
+2025-09-04,Study,1
+2025-09-05,Do Homework,1
+2025-09-05,Drink Water,1
+2025-09-05,Study,1
+2025-09-05,Walk,1
+2025-09-06,Breakfast,1
+2025-09-06,Do Homework,1
+2025-09-06,Drink Water,1
+2025-09-06,Journal,1
+2025-09-06,Sleep Early,1
+2025-09-06,Study,1
+2025-09-06,Walk,1
+2025-09-07,Breakfast,1
+2025-09-07,Do Homework,1
+2025-09-07,Drink Water,1
+2025-09-07,Meditate,1
+2025-09-07,Study,1
+2025-09-07,Walk,1
+2025-09-08,Breakfast,1
+2025-09-08,Do Homework,1
+2025-09-08,Drink Water,1
+2025-09-08,Exercise,1
+2025-09-08,Read,1
+2025-09-08,Study,1
+2025-09-08,Walk,1
+2025-09-09,Breakfast,1
+2025-09-09,Do Homework,1
+2025-09-09,Drink Water,1
+2025-09-09,Exercise,1
+2025-09-09,Sleep Early,1
+2025-09-09,Study,1
+2025-09-10,Breakfast,1
+2025-09-10,Do Homework,1
+2025-09-10,Drink Water,1
+2025-09-10,Exercise,1
+2025-09-10,Sleep Early,1
+2025-09-10,Study,1
+2025-09-11,Breakfast,1
+2025-09-11,Do Homework,1
+2025-09-11,Drink Water,1
+2025-09-11,Meditate,1
+2025-09-11,Study,1
+2025-09-11,Walk,1
+2025-09-12,Breakfast,1
+2025-09-12,Do Homework,1
+2025-09-12,Drink Water,1
+2025-09-12,Exercise,1
+2025-09-12,Sleep Early,1
+2025-09-12,Study,1
+2025-09-12,Walk,1
+2025-09-13,Breakfast,1
+2025-09-13,Do Homework,1
+2025-09-13,Drink Water,1
+2025-09-13,Exercise,1
+2025-09-13,Read,1
+2025-09-13,Sleep Early,1
+2025-09-13,Study,1
+2025-09-13,Walk,1
+2025-09-14,Breakfast,1
+2025-09-14,Do Homework,1
+2025-09-14,Drink Water,1
+2025-09-14,Sleep Early,1
+2025-09-14,Study,1
+2025-09-14,Walk,1
+2025-09-15,Breakfast,1
+2025-09-15,Drink Water,1
+2025-09-15,Exercise,1
+2025-09-15,Meditate,1
+2025-09-15,Study,1
+2025-09-16,Breakfast,1
+2025-09-16,Exercise,1
+2025-09-16,Meditate,1
+2025-09-16,Sleep Early,1
+2025-09-16,Walk,1
+2025-09-17,Breakfast,1
+2025-09-17,Do Homework,1
+2025-09-17,Drink Water,1
+2025-09-17,Exercise,1
+2025-09-17,Sleep Early,1
+2025-09-17,Study,1
+2025-09-17,Walk,1
+2025-09-18,Breakfast,1
+2025-09-18,Do Homework,1
+2025-09-18,Exercise,1
+2025-09-18,Read,1
+2025-09-18,Sleep Early,1
+2025-09-18,Study,1
+2025-09-19,Breakfast,1
+2025-09-19,Do Homework,1
+2025-09-19,Drink Water,1
+2025-09-19,Read,1
+2025-09-19,Sleep Early,1
+2025-09-19,Study,1
+2025-09-20,Breakfast,1
+2025-09-20,Do Homework,1
+2025-09-20,Drink Water,1
+2025-09-20,Sleep Early,1
+2025-09-20,Study,1
+2025-09-20,Walk,1
+2025-09-21,Breakfast,1
+2025-09-21,Do Homework,1
+2025-09-21,Drink Water,1
+2025-09-21,Read,1
+2025-09-21,Sleep Early,1
+2025-09-21,Study,1
+2025-09-21,Walk,1
+2025-09-22,Breakfast,1
+2025-09-22,Do Homework,1
+2025-09-22,Drink Water,1
+2025-09-22,Exercise,1
+2025-09-22,Sleep Early,1
+2025-09-22,Walk,1
+2025-09-23,Breakfast,1
+2025-09-23,Do Homework,1
+2025-09-23,Drink Water,1
+2025-09-23,Exercise,1
+2025-09-23,Study,1
+2025-09-23,Walk,1
+2025-09-24,Breakfast,1
+2025-09-24,Do Homework,1
+2025-09-24,Drink Water,1
+2025-09-24,Exercise,1
+2025-09-24,Meditate,1
+2025-09-24,Sleep Early,1
+2025-09-24,Study,1
+2025-09-24,Walk,1
+2025-09-25,Breakfast,1
+2025-09-25,Do Homework,1
+2025-09-25,Sleep Early,1
+2025-09-25,Study,1
+2025-09-26,Breakfast,1
+2025-09-26,Do Homework,1
+2025-09-26,Drink Water,1
+2025-09-26,Study,1
+2025-09-26,Walk,1
+2025-09-27,Breakfast,1
+2025-09-27,Do Homework,1
+2025-09-27,Drink Water,1
+2025-09-27,Read,1
+2025-09-27,Sleep Early,1
+2025-09-27,Study,1
+2025-09-28,Breakfast,1
+2025-09-28,Do Homework,1
+2025-09-28,Drink Water,1
+2025-09-28,Sleep Early,1
+2025-09-29,Breakfast,1
+2025-09-29,Do Homework,1
+2025-09-29,Drink Water,1
+2025-09-29,Exercise,1
+2025-09-29,Walk,1
+2025-09-30,Breakfast,1
+2025-09-30,Do Homework,1
+2025-09-30,Drink Water,1
+2025-09-30,Exercise,1
+2025-09-30,Read,1
+2025-09-30,Sleep Early,1
+2025-09-30,Study,1
+2025-10-01,Breakfast,1
+2025-10-01,Do Homework,1
+2025-10-01,Meditate,1
+2025-10-01,Study,1
+2025-10-01,Walk,1
+2025-10-02,Breakfast,1
+2025-10-02,Do Homework,1
+2025-10-02,Drink Water,1
+2025-10-02,Exercise,1
+2025-10-02,Meditate,1
+2025-10-02,Sleep Early,1
+2025-10-02,Study,1
+2025-10-02,Walk,1
+2025-10-03,Breakfast,1
+2025-10-03,Do Homework,1
+2025-10-03,Drink Water,1
+2025-10-03,Exercise,1
+2025-10-03,Read,1
+2025-10-03,Sleep Early,1
+2025-10-03,Study,1
+2025-10-04,Breakfast,1
+2025-10-04,Drink Water,1
+2025-10-04,Exercise,1
+2025-10-04,Meditate,1
+2025-10-04,Sleep Early,1
+2025-10-04,Study,1
+2025-10-04,Walk,1
+2025-10-05,Breakfast,1
+2025-10-05,Do Homework,1
+2025-10-05,Exercise,1
+2025-10-05,Journal,1
+2025-10-05,Sleep Early,1
+2025-10-05,Study,1
+2025-10-05,Walk,1
+2025-10-06,Breakfast,1
+2025-10-06,Do Homework,1
+2025-10-06,Drink Water,1
+2025-10-06,Exercise,1
+2025-10-06,Read,1
+2025-10-06,Study,1
+2025-10-06,Walk,1
+2025-10-07,Breakfast,1
+2025-10-07,Do Homework,1
+2025-10-07,Drink Water,1
+2025-10-07,Exercise,1
+2025-10-07,Study,1
+2025-10-07,Walk,1
+2025-10-08,Do Homework,1
+2025-10-08,Drink Water,1
+2025-10-08,Study,1
+2025-10-08,Walk,1
+2025-10-09,Breakfast,1
+2025-10-09,Do Homework,1
+2025-10-09,Drink Water,1
+2025-10-09,Exercise,1
+2025-10-09,Meditate,1
+2025-10-09,Study,1
+2025-10-09,Walk,1
+2025-10-10,Breakfast,1
+2025-10-10,Do Homework,1
+2025-10-10,Drink Water,1
+2025-10-10,Sleep Early,1
+2025-10-10,Study,1
+2025-10-10,Walk,1
+2025-10-11,Breakfast,1
+2025-10-11,Do Homework,1
+2025-10-11,Drink Water,1
+2025-10-11,Exercise,1
+2025-10-11,Meditate,1
+2025-10-11,Sleep Early,1
+2025-10-11,Study,1
+2025-10-11,Walk,1
+2025-10-12,Breakfast,1
+2025-10-12,Do Homework,1
+2025-10-12,Exercise,1
+2025-10-12,Meditate,1
+2025-10-12,Read,1
+2025-10-12,Sleep Early,1
+2025-10-12,Study,1
+2025-10-13,Breakfast,1
+2025-10-13,Sleep Early,1
+2025-10-13,Study,1
+2025-10-13,Walk,1
+2025-10-14,Breakfast,1
+2025-10-14,Do Homework,1
+2025-10-14,Drink Water,1
+2025-10-14,Meditate,1
+2025-10-14,Sleep Early,1
+2025-10-14,Study,1
+2025-10-14,Walk,1
+2025-10-15,Breakfast,1
+2025-10-15,Drink Water,1
+2025-10-15,Sleep Early,1
+2025-10-15,Study,1
+2025-10-15,Walk,1
+2025-10-16,Breakfast,1
+2025-10-16,Do Homework,1
+2025-10-16,Drink Water,1
+2025-10-16,Sleep Early,1
+2025-10-16,Walk,1
+2025-10-17,Breakfast,1
+2025-10-17,Exercise,1
+2025-10-17,Sleep Early,1
+2025-10-17,Study,1
+2025-10-17,Walk,1
+2025-10-18,Breakfast,1
+2025-10-18,Do Homework,1
+2025-10-18,Drink Water,1
+2025-10-18,Exercise,1
+2025-10-18,Read,1
+2025-10-18,Sleep Early,1
+2025-10-18,Study,1
+2025-10-19,Breakfast,1
+2025-10-19,Do Homework,1
+2025-10-19,Drink Water,1
+2025-10-19,Meditate,1
+2025-10-19,Read,1
+2025-10-19,Study,1
+2025-10-20,Breakfast,1
+2025-10-20,Do Homework,1
+2025-10-20,Drink Water,1
+2025-10-20,Exercise,1
+2025-10-20,Study,1
+2025-10-21,Breakfast,1
+2025-10-21,Drink Water,1
+2025-10-21,Exercise,1
+2025-10-21,Meditate,1
+2025-10-21,Sleep Early,1
+2025-10-21,Study,1
+2025-10-22,Breakfast,1
+2025-10-22,Do Homework,1
+2025-10-22,Drink Water,1
+2025-10-22,Read,1
+2025-10-22,Sleep Early,1
+2025-10-22,Study,1
+2025-10-22,Walk,1
+2025-10-23,Breakfast,1
+2025-10-23,Do Homework,1
+2025-10-23,Drink Water,1
+2025-10-23,Sleep Early,1
+2025-10-23,Study,1
+2025-10-23,Walk,1
+2025-10-24,Breakfast,1
+2025-10-24,Do Homework,1
+2025-10-24,Sleep Early,1
+2025-10-24,Study,1
+2025-10-24,Walk,1
+2025-10-25,Breakfast,1
+2025-10-25,Do Homework,1
+2025-10-25,Drink Water,1
+2025-10-25,Read,1
+2025-10-25,Study,1
+2025-10-25,Walk,1
+2025-10-26,Breakfast,1
+2025-10-26,Do Homework,1
+2025-10-26,Drink Water,1
+2025-10-26,Journal,1
+2025-10-26,Meditate,1
+2025-10-26,Sleep Early,1
+2025-10-26,Study,1
+2025-10-26,Walk,1
+2025-10-27,Breakfast,1
+2025-10-27,Do Homework,1
+2025-10-27,Drink Water,1
+2025-10-27,Exercise,1
+2025-10-27,Meditate,1
+2025-10-27,Sleep Early,1
+2025-10-27,Study,1
+2025-10-27,Walk,1
+2025-10-28,Breakfast,1
+2025-10-28,Drink Water,1
+2025-10-28,Meditate,1
+2025-10-28,Sleep Early,1
+2025-10-29,Breakfast,1
+2025-10-29,Do Homework,1
+2025-10-29,Sleep Early,1
+2025-10-29,Study,1
+2025-10-29,Walk,1
+2025-10-30,Breakfast,1
+2025-10-30,Do Homework,1
+2025-10-30,Drink Water,1
+2025-10-30,Exercise,1
+2025-10-30,Sleep Early,1
+2025-10-30,Study,1
+2025-10-30,Walk,1
+2025-10-31,Breakfast,1
+2025-10-31,Exercise,1
+2025-10-31,Read,1
+2025-10-31,Study,1
+2025-10-31,Walk,1
+2025-11-01,Breakfast,1
+2025-11-01,Do Homework,1
+2025-11-01,Drink Water,1
+2025-11-01,Exercise,1
+2025-11-01,Meditate,1
+2025-11-01,Read,1
+2025-11-01,Sleep Early,1
+2025-11-01,Study,1
+2025-11-01,Walk,1
+2025-11-02,Meditate,1
+2025-11-02,Breakfast,1
